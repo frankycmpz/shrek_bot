@@ -9,7 +9,7 @@ This bot uses crontab, a Unix tool that allows you to schedule different tasks a
 
 ## Going Viral 🦠
 So far,
-1. [Shrek's butt](https://twitter.com/shrekframe/status/1366599164654665740?s=21). Crude, but I'll take it. Even got a shoutout from DreamWorks Animation account. Over 11 million impressions, 25k tweets, and 210k likes. Not a bad day for the bot business.
+1. [Shrek's butt](https://twitter.com/shrekframe/status/1366599164654665740?s=21). Crude, but I'll take it. Even got a shoutout from the DreamWorks Animation account. Over 11 million impressions, 25k tweets, and 210k likes. Not a bad day for the bot business.
 2. Not as viral, but [Shrek striking a pose](https://twitter.com/shrekframe/status/1366810589595590658?s=21) still garnered significant attention. 10k retweets and a little less than 75k likes.
 
 ## Lastly...
