@@ -1,4 +1,4 @@
-# shrek-bot / @shrekframe
+# shrek bot / @shrekframe
 A Python script that first generates every Shrek frame, then tweets five frames at a time. Uses FFmpeg and Tweepy.
 
 My most recent bot, and what I would consider, my second success in bot making. This bot works in two steps.
